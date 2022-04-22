@@ -7,7 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 4. [Machine Learning]
 
 ## Contributors
-@ir2fan , @ahmadazfar , Tao @MachoPanko
+@ir2fan , @ahmadazfar , @MachoPanko
 
 ## Problem Definition
 - Can we find the variables that have the strongest relationship with Customer Tenure?
