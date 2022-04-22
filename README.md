@@ -1,10 +1,10 @@
 # telco-customer_analysis
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Customer Tenure rate from [Telecom Customer Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). For detailed walkthrough, please view the source code in order from: 
-1. [Exploratory Analysis] (https://github.com/MachoPanko/telco-customer_analysis/blob/main/analyzingvariables.ipynb)
-2. [Data Cleaning & Data Preparation]
-3. [Data Resampling and Splitting]
-4. [Machine Learning]
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Customer Tenure rate from [Telecom Customer Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). For detailed walkthrough, please view the [main source code] (https://github.com/MachoPanko/telco-customer_analysis/blob/main/SC1015%20Lab%20SC1%20Group%201%20Main.ipynb) : 
+1. Exploratory Analysis 
+2. Data Cleaning & Data Preparation
+3. Data Resampling and Splitting
+4. Machine Learning
 ## Contributors
 @ir2fan , @ahmadazfar , @MachoPanko
 
