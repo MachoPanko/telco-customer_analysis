@@ -10,8 +10,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 'Irfaan , Azfar , Tao @MachoPanko
 
 ## Problem Definition
--Can we find the variables that have the strongest relationship with Customer Tenure?
--Can we produce a model that can accurately predict customer tenure based on certain variables?
+- Can we find the variables that have the strongest relationship with Customer Tenure?
+- Can we produce a model that can accurately predict customer tenure based on certain variables?
 
 ## Models Used
 1. Linear Regression
@@ -21,10 +21,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 5. Random Forest
 
 ## Conclusion
--The top 6 variables of differing natures are found.
--A model with a prediction accuracy of 99.7% can be produced with random forest.
--We learned that linear regression and decision tree regression did not perform well in predicting tenure.
--We learnt three new machine learning models (random forest, XGBoost and gradient boosting) which offers way more accurate results.
+- The top 6 variables of differing natures are found.
+- A model with a prediction accuracy of 99.7% can be produced with random forest.
+- We learned that linear regression and decision tree regression did not perform well in predicting tenure.
+- We learnt three new machine learning models (random forest, XGBoost and gradient boosting) which offers way more accurate results.
 
 ## References 
 1) https://www.kaggle.com/datasets/blastchar/telco-customer-churn
