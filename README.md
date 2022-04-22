@@ -23,5 +23,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 -The top 6 variables of differing natures are found.
 -A model with a prediction accuracy of 99.7% can be produced with random forest.
--Coding w the bros is fun.
+-We learned that linear regression and decision tree regression did not perform well in predicting tenure.
+-We learnt three new machine learning models (random forest, XGBoost and gradient boosting) which offers way more accurate results.
 
+## References 
+1) https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://www.grandviewresearch.com/industry-analysis/global-telecom-services-market
+
+2) https://www.heavy.ai/blog/strategies-for-reducing-churn-rate-in-the-telecom-industry#:~:text=The%20average%20churn%20rate%20in,fostering%20customer%20loyalty%20is%20key.
+
+3) https://www.grandviewresearch.com/industry-analysis/global-telecom-services-market
